@@ -1,8 +1,8 @@
 [theme]
 
 
-primaryColor = "#fb04da"
-borderColor="#c303bfaa"
+primaryColor = "#7fff9d"
+borderColor="#087b00aa"
 
 [theme.sidebar]
 primaryColor="darkGoldrod"

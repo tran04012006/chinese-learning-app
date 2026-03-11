@@ -1,5 +1,6 @@
-import streamlit as st
-import google.generativeai as genai
-import os
-from htbuilder import div, styles
-from htbuilder.units import rem
+class Solution:
+    def min (self, nums: List[int]) -> int:
+        runningSum = 0
+        minSum = 0
+        for num in nums:
+            runningSum 
